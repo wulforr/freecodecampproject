@@ -1,0 +1,15 @@
+.container{
+  max-width:80%;
+  margin:auto;
+}
+.center{
+  text-align: center;
+  margin-left: auto;
+  margin-right:auto;
+}
+#image{
+  display:block;
+  max-width:500px;
+  max-height:333px;
+  margin: 20px auto;
+}
